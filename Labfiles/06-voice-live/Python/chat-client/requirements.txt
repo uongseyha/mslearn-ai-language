@@ -1,3 +1,5 @@
-dotenv
+python-dotenv
 aiohttp
 pyaudio
+azure-ai-voicelive
+azure-identity
